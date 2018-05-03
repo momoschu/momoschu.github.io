@@ -5,3 +5,10 @@ h1 {
 .summary-text {
   color: peachpuff;
 }
+
+.contact {
+  border-color: darkgray;
+  border-width: 2px;
+  border-style: solid;
+  background-color: lightgray;
+}
